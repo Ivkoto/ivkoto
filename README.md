@@ -8,9 +8,12 @@ I am a passionate person with a love for programming, learning and developing my
 
 ### Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivkoto&layout=compact)
-
-![ivkoto's github stats](https://github-readme-stats.vercel.app/api?username=Ivkoto&count_private=false&show_icons=true&include_all_commits=true&theme=dracula&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ivkoto&count_private=false&show_icons=true&include_all_commits=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ivkoto&layout=compact&exclude_repo=DataAnalyticsMachineLearning,Ivkoto.github.io&langs_count=8&card_width=320" />
+</a>
 
 <!--
 **Ivkoto/ivkoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
