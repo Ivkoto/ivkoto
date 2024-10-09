@@ -2,6 +2,10 @@
 
 I am a passionate person with a love for programming, learning and developing myself. I started with C # and .Net. Currently, work as a Software Developer.
 
+[![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/ikostov87/)
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ikostov87/) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ikostov87/) 
+
 ### Stats
 
 ![ivkoto's github stats](https://github-readme-stats.vercel.app/api?username=Ivkoto&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
