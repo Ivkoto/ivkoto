@@ -8,7 +8,7 @@ I am a passionate person with a love for programming, learning and developing my
 
 ### Stats
 
-![ivkoto's github stats](https://github-readme-stats.vercel.app/api?username=Ivkoto&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
+![ivkoto's github stats](https://github-readme-stats.vercel.app/api?username=Ivkoto&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&layout=compact)
 
 <!--
 **Ivkoto/ivkoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
