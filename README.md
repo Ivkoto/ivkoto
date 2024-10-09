@@ -9,10 +9,10 @@ I am a passionate person with a love for programming, learning and developing my
 ### Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Ivkoto&count_private=false&show_icons=true&include_all_commits=true&theme=dracula" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=Ivkoto&count_private=false&show_icons=true&include_all_commits=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ivkoto&layout=compact&exclude_repo=DataAnalyticsMachineLearning,Ivkoto.github.io&langs_count=8&card_width=320" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ivkoto&layout=compact&exclude_repo=DataAnalyticsMachineLearning,Ivkoto.github.io&langs_count=8&card_width=320" />
 </a>
 
 <!--
