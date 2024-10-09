@@ -1,5 +1,7 @@
 ## Hi 👋, I'm Ivaylo Kostov
 
+I am a passionate person with a love for programming, learning and developing myself. I started with C # and .Net. Currently, work as a Software Developer.
+
 ### Stats
 
 ![ivkoto's github stats](https://github-readme-stats.vercel.app/api?username=Ivkoto&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
