@@ -1,6 +1,8 @@
 ## Hi 👋, I'm Ivaylo Kostov
 
-I am a passionate person with a love for programming, learning and developing myself. I started with C # and .Net. Currently, work as a Software Developer.
+I am a passionate software developer with a foundation in C# and .NET technologies, constantly evolving my skills to meet the dynamic demands of modern software engineering.
+Beyond coding, I am deeply interested in a variety of activities that inspire and energize me, including photography, image and video editing, travelling, DJing & music, lock-picking, board games, cooking & preparing cocktails (I have my own recipes), and exploring both hardware and software innovations.
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ikostov87/)
 [![DevOcean](https://img.shields.io/badge/Devocean_serices-blue?style=flat)](https://devocean.services/)
@@ -15,6 +17,7 @@ I am a passionate person with a love for programming, learning and developing my
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ivkoto&layout=compact&exclude_repo=DataAnalyticsMachineLearning,Ivkoto.github.io&langs_count=8&card_width=320" />
 </a>
+
 ### GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ivkoto&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
