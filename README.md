@@ -16,6 +16,7 @@ I am a passionate person with a love for programming, learning and developing my
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ivkoto&layout=compact&exclude_repo=DataAnalyticsMachineLearning,Ivkoto.github.io&langs_count=8&card_width=320" />
 </a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ivkoto&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Ivkoto/ivkoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
