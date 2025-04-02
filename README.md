@@ -1,5 +1,7 @@
 ## Hi 👋, I'm Ivaylo Kostov
-🧑‍💻Passionate C# & .NET Developer
+🧑‍💻 Passionate Software Developer<br>
+🤓 Lifelong Learner<br>
+🤖 Technology Enthusiast
 
 I am a passionate software developer with a foundation in C# and .NET technologies, constantly evolving my skills to meet the dynamic demands of modern software engineering.
 Beyond coding, I am deeply interested in a variety of activities that inspire and energize me, including photography, image and video editing, travelling, DJing & music, lock-picking, board games, cooking & preparing cocktails (I have my own recipes), and exploring both hardware and software innovations.
