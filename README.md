@@ -15,15 +15,15 @@ Beyond coding, I am deeply interested in a variety of activities that inspire an
 ### Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=Ivkoto&count_private=false&show_icons=true&include_all_commits=false&theme=dracula" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=Ivkoto&count_private=false&show_icons=true&include_all_commits=false&theme=onedark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ivkoto&layout=compact&exclude_repo=DataAnalyticsMachineLearning,Ivkoto.github.io&langs_count=8&card_width=320" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ivkoto&layout=compact&exclude_repo=DataAnalyticsMachineLearning,Ivkoto.github.io&langs_count=8&card_width=320&theme=onedark" />
 </a>
 
 ### GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ivkoto&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ivkoto&title=-Stars,-Followers&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Ivkoto/ivkoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
