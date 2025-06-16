@@ -18,7 +18,7 @@ Beyond coding, I am deeply interested in a variety of activities that inspire an
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=Ivkoto&count_private=false&show_icons=true&include_all_commits=false&theme=onedark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ivkoto&layout=compact&exclude_repo=DataAnalyticsMachineLearning,Ivkoto.github.io&langs_count=15&card_width=320&theme=onedark" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ivkoto&layout=compact&exclude_repo=DataAnalyticsMachineLearning,Ivkoto.github.io&langs_count=20&card_width=320&theme=onedark" />
 </a>
 
 ### GitHub Trophies
