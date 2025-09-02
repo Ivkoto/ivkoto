@@ -7,7 +7,7 @@ I am a passionate software developer with a foundation in C# and .NET technologi
 Beyond coding, I am deeply interested in a variety of activities that inspire and energize me, including photography, image and video editing, travelling, DJing & music, lock-picking, board games, cooking & preparing cocktails (I have my own recipes), and exploring both hardware and software innovations.
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ikostov87/) [![DevOcean](https://img.shields.io/badge/Devocean_serices-blue?style=flat)](https://devocean.services/) [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ikostov87/) [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/ikostov87/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ikostov87/) [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ikostov87/) [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/ikostov87/)
 
 ### Stats
 
