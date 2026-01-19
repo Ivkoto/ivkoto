@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Ivaylo Kostov
-🧑‍💻 Passionate Software Developer<br>
+🧑‍💻 Passionate Software Еngineer<br>
 🤓 Lifelong Learner<br>
 🤖 Technology Enthusiast
 
