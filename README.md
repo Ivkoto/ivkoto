@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Ivaylo Kostov
 🧑‍💻 Passionate Software Еngineer<br>
 🤓 Lifelong Learner<br>
-🤖 Technology Enthusiast
+🤖 Technology Enthusiast<br>
 🚁 Drone Pilot
 
 I am a passionate software developer with a foundation in C# and .NET technologies, constantly evolving my skills to meet the dynamic demands of modern software engineering.
