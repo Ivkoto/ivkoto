@@ -18,6 +18,9 @@ Beyond coding, I am deeply interested in a variety of activities that inspire an
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ikostov87/)
 &nbsp;
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/ikostov87/)
+&nbsp;
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@IvoK87)
+
 
 ### Stats
 
