@@ -7,7 +7,18 @@
 I am a passionate software developer with a foundation in C# and .NET technologies, constantly evolving my skills to meet the dynamic demands of modern software engineering.
 Beyond coding, I am deeply interested in a variety of activities that inspire and energize me, including photography, image and video editing, travelling, DJing & music, lock-picking, board games, cooking & preparing cocktails (I have my own recipes), and exploring both hardware and software innovations.
 
-📫 How to reach me:
+#### ⚙️ Tech Stack
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-7A3E9D?style=flat&logo=nuget&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+#### 🌱 Currently Learning
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+#### 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikostov87/)
 &nbsp;
