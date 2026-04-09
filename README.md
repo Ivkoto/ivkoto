@@ -11,9 +11,12 @@ Beyond coding, I am deeply interested in a variety of activities that inspire an
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/)
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-10.0)
 [![EF Core](https://img.shields.io/badge/EF_Core-7A3E9D?style=flat&logo=nuget&logoColor=white)](https://learn.microsoft.com/en-us/ef/core/)
-[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com/en-us/sql/?view=sql-server-ver17)
-[![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)](https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-10.0)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/azure/?product=popular)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com/en-us/sql/?view=sql-server-ver17)
+![Dapper](https://img.shields.io/badge/Dapper-000000?style=flat)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=flat)
+[![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)](https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-10.0)
+
 
 #### 🌱 Currently Learning
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
