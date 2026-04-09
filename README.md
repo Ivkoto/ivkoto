@@ -8,15 +8,17 @@ I am a passionate software developer with a foundation in C# and .NET technologi
 Beyond coding, I am deeply interested in a variety of activities that inspire and energize me, including photography, image and video editing, travelling, DJing & music, lock-picking, board games, cooking & preparing cocktails (I have my own recipes), and exploring both hardware and software innovations.
 
 #### ⚙️ Tech Stack
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF_Core-7A3E9D?style=flat&logo=nuget&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/)
+[![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-10.0)
+[![EF Core](https://img.shields.io/badge/EF_Core-7A3E9D?style=flat&logo=nuget&logoColor=white)](https://learn.microsoft.com/en-us/ef/core/)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com/en-us/sql/?view=sql-server-ver17)
+[![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)](https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-10.0)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/azure/?product=popular)
 
 #### 🌱 Currently Learning
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
+[![.NET Aspire](https://img.shields.io/badge/.NET_Aspire-512BD4?style=flat&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/aspire/)
 
 #### 📫 How to reach me
 
